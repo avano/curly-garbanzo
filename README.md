@@ -3,3 +3,4 @@ Test
 new line
 next
 line
+test
