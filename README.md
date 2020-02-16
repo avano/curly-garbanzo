@@ -4,3 +4,4 @@ new line
 next
 line
 test
+line
