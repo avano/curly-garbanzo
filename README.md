@@ -8,3 +8,4 @@ line
 test
 next
 patch
+yes
