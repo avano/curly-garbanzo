@@ -11,3 +11,4 @@ patch
 yes
 zz
 up
+down
