@@ -10,3 +10,5 @@ next
 patch
 yes
 zz
+up
+down
